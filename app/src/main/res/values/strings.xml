@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ali Express</string>
+    <string name="title">Brands shopping week</string>
+    <string name="categories">All Categories</string>
+    <string name="deals">Flash Deals</string>
+    <string name="more">More</string>
+    <string name="freebies">Freebies & Reviews</string>
+    <string name="coins">Coins and Coupons</string>
+    <string name="store">My Stores</string>
+    <string name="fan">Fan Zone</string>
+    <string name="t">-37%</string>
+    <string name="n">-92%</string>
+    <string name="e">-88%</string>
+    <string name="s">-87%</string>
+    <string name="two">US $2.60</string>
+    <string name="seven">US $17.60</string>
+    <string name="three">US $3.31</string>
+    <string name="four">US $4.03</string>
+    <string name="feature">Featured Brands</string>
+</resources>
